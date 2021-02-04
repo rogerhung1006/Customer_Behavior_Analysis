@@ -1,6 +1,6 @@
 # It’s Always About the Customer - Customer Behavior Analysis
 ![cover](image/cover.png)
-phto: unsplash
+photo: unsplash
 ## Table of Contents
 
 * [Introduction](#Introduction)
